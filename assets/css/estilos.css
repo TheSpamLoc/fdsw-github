@@ -6,13 +6,13 @@ body {
 
 #Hero-Section {
   background-image: url("../img/bg-hero.png");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: left;
+  /*background-repeat: no-repeat;*/
+  background-size:cover;
+  background-position: left 25%;
 }
 
 #Hero-Section .container .ms-auto.col-12.col-md-7 {
-  background-color: rgba(20, 20, 20, 0.5);
+  background-color: rgba(20, 20, 20, 0.712);
   padding: 2rem;
   border-radius: 2rem;
 }
