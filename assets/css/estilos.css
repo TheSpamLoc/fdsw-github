@@ -11,9 +11,15 @@ body {
   background-position: left;
 }
 
-/* Mis trabajos */
+#Hero-Section .container .ms-auto.col-12.col-md-7 {
+  background-color: rgba(20, 20, 20, 0.5);
+  padding: 2rem;
+  border-radius: 2rem;
+}
 
-#Mis-trabajos .image-top {
+/* GRAFITIS */
+
+#Los-Grafitis .image-top {
   height: 250px;
   background-repeat: no-repeat;
   background-size: cover;
